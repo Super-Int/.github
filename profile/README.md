@@ -1,12 +1,13 @@
-# Make reality better with a piece of code
+# Welcome to Superint Software
 
-<!--
+We believe in making reality better with a piece of code, crafting innovative software solutions that integrate cutting-edge AI to improve daily life with practicality and user-friendliness at the core.
 
-**Here are some ideas to get you started:**
+## Our Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Food Detective](https://superintsoftware.com/apps/food-detective): Food tracking app that goes beyond simple calorie counting.
+
+## Contact Us
+
+For inquiries, please reach out to us at [contact@superintsoftware.com](mailto:contact@superintsoftware.com).
+
+Visit our website: [superintsoftware.com](https://superintsoftware.com/)
